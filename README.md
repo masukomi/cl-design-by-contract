@@ -1,4 +1,12 @@
-# Design by Contract
+## PLEASE NOTE:
+This is an archive of code originally created by
+<a href="mailto:tc@gauss.muc.de">Matthias Hölzl</a>
+in 1998. [Quid-Pro-Quo](https://github.com/sellout/quid-pro-quo) is a notably 
+more advanced Design By contract library based, long ago, on this same
+source code. I'd recommend that you go check that out before spending 
+any time in this repo.
+
+# Common Lisp - Design by Contract
 
 ## What is it all about?
 
@@ -27,9 +35,3 @@ you should expect some rough edges and changes in its future design. There is no
 larger program depending on this package available, only some silly test cases.
 Since I intend to use the dbc package for my own programs this should change in
 the not so distant future.
-
-----
-
-Please note: This is an archive of code originally created by
-<a href="mailto:tc@gauss.muc.de">Matthias Hölzl</a>
-in 1998. However, pull requests will be happily accepted.
